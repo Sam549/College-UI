@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    color: #3E7E93;
+    background-color: #043565;
+    padding: 30px 5px;
+    margin: 10px 40px;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 30px;
+    border-radius: 15px;
+}
+section{
+    margin-left: 70px;
+    margin-top: 100px;
+}
+ol > li{
+    padding: 15px;
+    font-size: 30px;
+    word-spacing: 1px;
+    color:#043565;
+}
+.col-2{
+    display: inline;
+    float: right;
+    width: 330px;
+    margin-right: 5%;
+}
